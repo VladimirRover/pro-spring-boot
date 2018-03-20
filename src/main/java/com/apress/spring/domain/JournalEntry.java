@@ -4,6 +4,7 @@ import com.apress.spring.utils.JsonDateSerializer;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
+
 import javax.persistence.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

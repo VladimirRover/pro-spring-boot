@@ -1,7 +1,10 @@
+
 -- USERS IN JOURNAL
 INSERT INTO ACCOUNT(account_name , password) VALUES('springboot', 'isawesome');
 INSERT INTO ACCOUNT(account_name , password) VALUES('springsecurity', 'isawesometoo');
 
+
+-- JOURNAL DATA
 INSERT INTO ENTRY(title,summary,created)
 VALUES('Get to know Spring Boot','Today I will learn Spring Boot','2016-01-02 00:00:00.00');
 INSERT INTO ENTRY(title,summary,created)

@@ -2,6 +2,7 @@
 -- USERS IN JOURNAL
 INSERT INTO ACCOUNT(account_name , password) VALUES('springboot', 'isawesome');
 INSERT INTO ACCOUNT(account_name , password) VALUES('springsecurity', 'isawesometoo');
+INSERT INTO ACCOUNT(account_name , password) VALUES('user', '1111');
 
 
 -- JOURNAL DATA

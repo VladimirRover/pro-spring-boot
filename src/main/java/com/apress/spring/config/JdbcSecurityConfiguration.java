@@ -2,6 +2,7 @@ package com.apress.spring.config;
 
 import java.sql.ResultSet;
 
+import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -15,6 +16,7 @@ import org.springframework.security.config.annotation.authentication.configurers
 import org.springframework.security.core.authority.AuthorityUtils;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.test.context.TestExecutionListeners;
 
 @Configuration
 @EnableGlobalAuthentication

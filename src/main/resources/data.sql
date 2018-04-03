@@ -3,6 +3,7 @@
 INSERT INTO ACCOUNT(account_name , password) VALUES('springboot', 'isawesome');
 INSERT INTO ACCOUNT(account_name , password) VALUES('springsecurity', 'isawesometoo');
 INSERT INTO ACCOUNT(account_name , password) VALUES('user', '1111');
+INSERT INTO ACCOUNT(account_name , password) VALUES('vaha', '1');
 
 
 -- JOURNAL DATA
